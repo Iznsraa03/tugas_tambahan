@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas_tambahan</string>
+
+    <string-array name="universities">
+        <item>Universitas Dipa Makassar</item>
+        <item>Institut Teknologi Bandung</item>
+        <item>Universitas Hasanuddin</item>
+        <item>Universitas Negri Makassar</item>
+        <item>Universitas Padjadjaran</item>
+    </string-array>
+</resources>
